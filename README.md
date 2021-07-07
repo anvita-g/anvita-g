@@ -1,9 +1,9 @@
+Welcome to my page !!
 
-
-- 👋 Hi, I’m @anvita-g , Welcome to my page
-- 👀 I’m interested in data science and computer science.
+- 👋 Hi, I’m @anvita-g
+- 👀 I’m interested in double majoring in data science and computer science.
 - 🌱 I’m currently a rising senior at Okemos HS.
-- 💞️ I’m looking to collaborate on any DS/CS projects !
+- 💞️ I’m looking to collaborate on any DS/CS projects and participate in hackathons!
 - 📫 Reach me at anvigollu@gmail.com
 
 I dont have much on here 'yet' :D
